@@ -7,7 +7,12 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Useful Commands
 
+## Libraries
+- Laravel v8
+- Dingo v3 for API
+- Laravel Sanctum v2.6 for API token
+
+## Useful Commands
 Make new API controller run
 `php artisan make:controller API/PhotoController --api`
